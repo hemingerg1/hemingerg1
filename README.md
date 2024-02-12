@@ -6,7 +6,7 @@ Hi there! I'm Grant, a mechanical engineer with a passion for building things. I
 <br>  
 
 ### Skills:
-- **Mechanical Engineering:**  Design, development, analysis, prototyping, manufacturing processes
+- **Mechanical Engineering:**  Design, development, analysis, prototyping, manufacturing processes, CAD (Solidwork, Solid Edge, AutoCAD)
 - **Electrical Engineering:**  Understanding of microcontrollers, circuits, sensors, and actuators  
 - **Software Development:**  Python, C++, Arduino, basic knowledge of web development
 
