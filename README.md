@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Grant</h1>
+
 <h3 align="center">Mechanical Engineer | Software and Electrical Engineering Enthusiast</h3><br>
 
 Hi there! I'm Grant, a mechanical engineer with a passion for building things. I enjoy bridging the gap between mechanical and electrical systems with software development, creating innovative solutions across disciplines.
