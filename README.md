@@ -1,14 +1,14 @@
 
 <h3 align="center">Mechanical Engineer | Software and Electrical Engineering Enthusiast</h3><br>
 
-Hi there! I'm Grant, a mechanical engineer with a passion for building things. I enjoy bridging the gap between mechanical and electrical systems with software development, creating innovative solutions across disciplines.
+Hi! I'm Grant, a mechanical engineer with a passion for building things. I enjoy bridging the gap between mechanical and electrical systems with hardware and software development, creating innovative solutions across disciplines.
 
 <br>  
 
 ### Skills:
 - **Mechanical Engineering:**  Design, development, analysis, prototyping, manufacturing processes, CAD (Solidworks, Solid Edge, AutoCAD)
-- **Electrical Engineering:**  Understanding of microcontrollers, circuits, sensors, and actuators  
-- **Software Development:**  Python, C++, Arduino, basic knowledge of web development
+- **Electrical Engineering:**  Microcontrollers, circuits, sensors, and actuators  
+- **Software Development:**  Python, C++, Arduino, understanding of web development
 
 <br>  
 
@@ -66,7 +66,7 @@ Hi there! I'm Grant, a mechanical engineer with a passion for building things. I
 <br>  
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemingerg1&show_icons=true&locale=en&layout=compact" alt="hemingerg1" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemingerg1&" alt="hemingerg1" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemingerg1&" alt="" />
 </p>
 
 
